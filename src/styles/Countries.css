@@ -1,0 +1,25 @@
+table.countries {
+    width: 80%;
+    margin-top: 8px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 8px;
+    border: darkcyan solid;
+}
+
+thead {
+    background-color: rgb(7, 48, 48);
+    color: darkgrey;
+    text-align: center;
+}
+tbody {
+    align-content: center;
+
+}
+.wetherselect {
+    padding: 10px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

@@ -1,0 +1,12 @@
+.CountryInput {
+    height: 80px;
+    width: 800px;
+    resize: none;
+    border: darkcyan solid;
+    display: block;
+    margin-top: 8px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-size: 40px;
+}
